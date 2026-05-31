@@ -1,3 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+/out
+/Builder Pattern/Builder Pattern.iml
+/Memento Pattern/Memento Pattern.iml
+/Singleton Pattern/Singleton Pattern.iml
